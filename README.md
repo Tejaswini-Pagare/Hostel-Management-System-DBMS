@@ -72,7 +72,8 @@ Hostel-Management-System/
    http://localhost/Hostel-Management-System/
    ```
 🙋‍♂️ Author
-Chinmaya Bhushan Kolhe 
+Tejaswini Prabhakar Pagare
+
 
 
 
