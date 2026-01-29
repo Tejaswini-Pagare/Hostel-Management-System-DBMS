@@ -72,7 +72,7 @@ Hostel-Management-System/
    http://localhost/Hostel-Management-System/
    ```
 🙋‍♂️ Author
-Tejaswini Prabhakar Pagare
+Tejaswini Prabhakar Pagare....
 
 
 
